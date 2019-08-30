@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "skinblinker",
+    "version": "${version}",
+    "name": "Flashy Clothing",
+    "description": "A skin blinker mod for Fabric",
+    "authors": ["Cynosphere"],
+    "contact": {
+        "sources": "https://github.com/Cynosphere/FlashyClothing"
+    },
+    "license": "MIT",
+    "icon": "assets/skinblinker/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": ["pm.c7.skinblinker.FlashyClothing"],
+        "modmenu": ["pm.c7.skinblinker.ModMenuConfig"]
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.4.0",
+        "fabric": "*"
+    },
+    "custom": {
+        "modmenu:clientsideOnly": true
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "text.autoconfig.flashyclothing.title": "Flashy Clothing",
+  "text.autoconfig.flashyclothing.category.main": "Main",
+  "text.autoconfig.flashyclothing.option.main.enabled": "Enabled",
+  "text.autoconfig.flashyclothing.option.main.blinkCape": "Blink Cape",
+  "text.autoconfig.flashyclothing.option.main.blinkCapeInterval": "Cape Blink Interval (ticks)",
+  "text.autoconfig.flashyclothing.option.main.blinkJacket": "Blink Jacket",
+  "text.autoconfig.flashyclothing.option.main.blinkJacketInterval": "Jacket Blink Interval (ticks)",
+  "text.autoconfig.flashyclothing.option.main.blinkLeftArm": "Blink Left Sleeve",
+  "text.autoconfig.flashyclothing.option.main.blinkLeftArmInterval": "Left Sleeve Blink Interval (ticks)",
+  "text.autoconfig.flashyclothing.option.main.blinkRightArm": "Blink Right Sleeve",
+  "text.autoconfig.flashyclothing.option.main.blinkRightArmInterval": "Right Sleeve Blink Interval (ticks)",
+  "text.autoconfig.flashyclothing.option.main.blinkLeftLeg": "Blink Left Pant Leg",
+  "text.autoconfig.flashyclothing.option.main.blinkLeftLegInterval": "Left Pant Leg Blink Interval (ticks)",
+  "text.autoconfig.flashyclothing.option.main.blinkRightLeg": "Blink Right Pant Leg",
+  "text.autoconfig.flashyclothing.option.main.blinkRightLegInterval": "Right Pant Leg Blink Interval (ticks)",
+  "text.autoconfig.flashyclothing.option.main.blinkHat": "Blink Hat",
+  "text.autoconfig.flashyclothing.option.main.blinkHatInterval": "Hat Blink Interval (ticks)"
+}
