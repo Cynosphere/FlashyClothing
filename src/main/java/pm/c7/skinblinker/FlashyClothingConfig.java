@@ -1,9 +1,9 @@
 package pm.c7.skinblinker;
 
-import me.sargunvohra.mcmods.autoconfig1.ConfigData;
-import me.sargunvohra.mcmods.autoconfig1.annotation.Config;
-import me.sargunvohra.mcmods.autoconfig1.annotation.ConfigEntry;
-import me.sargunvohra.mcmods.autoconfig1.serializer.PartitioningSerializer;
+import me.sargunvohra.mcmods.autoconfig1u.ConfigData;
+import me.sargunvohra.mcmods.autoconfig1u.annotation.Config;
+import me.sargunvohra.mcmods.autoconfig1u.annotation.ConfigEntry;
+import me.sargunvohra.mcmods.autoconfig1u.serializer.PartitioningSerializer;
 import net.minecraft.client.render.entity.PlayerModelPart;
 
 @Config(name = "flashyclothing")
